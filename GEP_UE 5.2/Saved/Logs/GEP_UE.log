@@ -1979,3 +1979,136 @@ The current user directory, for saving user-specific settings:
 [2023.12.11-14.07.33:852][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 956 ms)
 [2023.12.11-14.07.33:860][ 21]AssetCheck: New page: Asset Save: BP_ExampleItem
 [2023.12.11-14.07.33:860][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/Items/BP_ExampleItem.BP_ExampleItem
+[2023.12.11-14.14.54:851][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.11-14.14.54:855][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B_Auto1
+[2023.12.11-14.14.54:855][627]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/TV9C612UO89ZE0OD34I38B_Auto1361664724E52180DB5E242B418314F22.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B_Auto1.uasset'
+[2023.12.11-14.14.54:857][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GEP/Maps/StartingMap' took 0.030
+[2023.12.11-14.14.54:857][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.12.11-14.17.12:636][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.17.12:636][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-14.17.12:636][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-14.17.47:807][821]LogSlate: Took 0.001032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.11-14.19.26:345][ 95]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Greater_IntInt' [Element not found.]
+[2023.12.11-14.22.57:045][353]LogEditorTransaction: Undo Add Node
+[2023.12.11-14.22.57:107][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.11-14.23.32:237][512]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.23.32:291][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.11-14.23.32:298][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.23.32:348][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.23.32:357][512]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.23.32:358][512]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystemFE1C5C58434B2ED8D12BC599639D910A.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.23.32:363][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.02 sec)
+[2023.12.11-14.23.32:376][512]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.23.32:376][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.25.03:367][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.25.03:419][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.25.03:429][301]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.25.03:430][301]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem1F12560E43E93B9CC44F27AA0D5A24BB.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.25.03:435][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.09 sec)
+[2023.12.11-14.25.03:443][301]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.25.03:443][301]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.25.38:411][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.25.38:474][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.25.38:484][563]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.25.38:485][563]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem2791F028465574B9B95146B8D4A05682.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.25.38:491][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.17 sec)
+[2023.12.11-14.25.38:497][563]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.25.38:497][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.28.09:019][167]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.28.09:073][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.11-14.28.09:088][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.28.09:151][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.28.09:163][167]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.28.09:164][167]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystemFE7F0EBA40F273AAEDA196A14DBB5CBD.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.28.09:170][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.25 sec)
+[2023.12.11-14.28.09:180][167]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.28.09:180][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.29.09:837][ 37]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.29.09:885][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.11-14.29.09:898][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.29.09:950][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.29.09:962][ 37]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.29.09:963][ 37]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem2571625840FFA875989FDF97129C4924.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.29.09:970][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.32 sec)
+[2023.12.11-14.29.09:979][ 37]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.29.09:979][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.29.20:586][731]LogEditorTransaction: Undo Create Pin Link
+[2023.12.11-14.29.20:678][731]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.11-14.29.27:611][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.29.27:690][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.29.27:701][113]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.29.27:702][113]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystemB92EC0E843E6F6C5CCE8D997900C4793.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.29.27:708][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.42 sec)
+[2023.12.11-14.29.27:716][113]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.29.27:716][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.29.45:174][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.29.45:240][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.29.45:251][245]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.29.45:252][245]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem5E893D5742DB05E2794C788947A0253F.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.29.45:259][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.50 sec)
+[2023.12.11-14.29.45:266][245]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.29.45:266][245]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.32.28:060][489]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.32.28:113][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.11-14.32.28:122][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.32.28:181][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.32.28:196][489]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.32.28:196][489]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem93A9BC494C6A775D98734AB32B1F91CB.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.32.28:203][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.58 sec)
+[2023.12.11-14.32.28:211][489]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.32.28:211][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.33.30:124][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.33.30:183][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.33.30:198][420]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.33.30:199][420]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem386BF5554029D0E4C70A12B1FA0853E3.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.33.30:205][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.66 sec)
+[2023.12.11-14.33.30:213][420]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.33.30:213][420]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.33.31:256][490]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.33.31:309][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.11-14.35.05:620][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.35.05:673][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.35.05:691][424]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.35.05:692][424]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem58E4456E4B90DFC144D79EA861626422.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.35.05:699][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.74 sec)
+[2023.12.11-14.35.05:705][424]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.35.05:705][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.40.42:955][586]LogEditorTransaction: Undo Create Pin Link
+[2023.12.11-14.40.43:042][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.11-14.41.16:461][662]BlueprintLog: New page: Compile BP_InventorySystem
+[2023.12.11-14.41.16:523][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.11-14.41.16:533][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.41.16:580][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.41.16:600][662]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.41.16:602][662]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystemBE78FDAB48ED89FB11105AAC21013D64.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.41.16:608][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.82 sec)
+[2023.12.11-14.41.16:616][662]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.41.16:616][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.41.41:628][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.11-14.41.41:632][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B_Auto2
+[2023.12.11-14.41.41:632][261]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/TV9C612UO89ZE0OD34I38B_Auto26D5FF32941D53D15E4BD08AD89ECC0F4.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B_Auto2.uasset'
+[2023.12.11-14.41.41:634][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GEP/Maps/StartingMap' took 0.032
+[2023.12.11-14.41.41:634][261]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.12.11-14.42.46:590][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.42.46:656][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.42.46:677][365]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.42.46:679][365]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem4B556DF94A33A06863325FB69AEBB203.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.42.46:685][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.91 sec)
+[2023.12.11-14.42.46:693][365]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.42.46:693][365]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.44.55:315][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.44.55:377][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.44.55:397][514]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.44.55:398][514]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystem18DD12A149947A63684256A141D6FC89.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.44.55:404][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.00 sec)
+[2023.12.11-14.44.55:413][514]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.44.55:413][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
+[2023.12.11-14.45.59:277][487]LogEditorTransaction: Undo Add Node
+[2023.12.11-14.45.59:360][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.11-14.46.22:106][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-14.46.22:169][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/BP_InventorySystem" FILE="D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset" SILENT=true
+[2023.12.11-14.46.22:190][863]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/BP_InventorySystem
+[2023.12.11-14.46.22:192][863]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_InventorySystemB92D67E246889C680010C1A07CF3D4D0.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset'
+[2023.12.11-14.46.22:198][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.09 sec)
+[2023.12.11-14.46.22:206][863]AssetCheck: New page: Asset Save: BP_InventorySystem
+[2023.12.11-14.46.22:206][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/BP_InventorySystem.BP_InventorySystem
