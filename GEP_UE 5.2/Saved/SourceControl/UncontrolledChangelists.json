@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/fSlotStruct.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/fItemStruct.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/ItemData.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/0/TZ/4GQPDY9VV0PV99I4NC8I5G.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/5/M8/USE9LO26LAA5POC3W0K7KA.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/5/WS/28KN9YMW5PSN2ZX9PERQ4C.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/A/PD/AUZVQJC7WJ9CHQ21K0Z60Q.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/D/CO/L60746XSQKH5KV8BM9LA8M.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalObjects__/GEP/Maps/StartingMap/5/GZ/GRBNVILQZ4CUQLUIBL14IN.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/IInteractInterface.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_TestItem.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_ExampleItem.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/BP_ItemData.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B.uasset",
+				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/Items/Thumbnails/shiny-apple.uasset"
+			]
+		}
+	]
+}
