@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/ItemData.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_ItemData.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_ExampleItem.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Blueprints/Interfaces/BPI_Pickupable.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_ExampleItem_2.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_Apple_Item.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_Apple_Item_2.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_Orange_Item.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Materials/MI_SimpleRed.uasset",
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Materials/MI_SimpleOrange.uasset",
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/fSlotStruct.uasset",
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset",
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset",
@@ -22,13 +35,7 @@
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/BP_ItemData.uasset",
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B.uasset",
 				"D:/Liam_Unreal_Inv_5.2/GEP_UE 5.2/Content/GEP/Inventory/Items/Thumbnails/shiny-apple.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_TestItem.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/ItemData.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_ItemData.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_ExampleItem.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/__ExternalActors__/GEP/Maps/StartingMap/C/EM/TV9C612UO89ZE0OD34I38B.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset",
-				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Blueprints/Interfaces/BPI_Pickupable.uasset"
+				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_TestItem.uasset"
 			]
 		}
 	]
