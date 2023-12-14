@@ -4145,3 +4145,14 @@ The current user directory, for saving user-specific settings:
 [2023.12.14-13.28.48:866][650]LogPlayLevel: Display: Destroying online subsystem :Context_27
 [2023.12.14-13.28.48:884][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.14-13.28.51:378][863]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.14-13.29.18:656][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.14-13.29.18:660][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/1/3W/XVRCLDRHBKDOEDBMKNYK9A_Auto1
+[2023.12.14-13.29.18:660][189]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/XVRCLDRHBKDOEDBMKNYK9A_Auto13BC2448342AC789194E25080D14F1B76.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/1/3W/XVRCLDRHBKDOEDBMKNYK9A_Auto1.uasset'
+[2023.12.14-13.29.18:663][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/1/QX/VMTANXP095HFP49QZUF5TN_Auto1
+[2023.12.14-13.29.18:663][189]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/VMTANXP095HFP49QZUF5TN_Auto13B323EA946DA157CEA7017B7E60A5038.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/1/QX/VMTANXP095HFP49QZUF5TN_Auto1.uasset'
+[2023.12.14-13.29.18:666][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/UX/1JGE4QJ9QJSQA9WARDIY6I_Auto1
+[2023.12.14-13.29.18:666][189]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/1JGE4QJ9QJSQA9WARDIY6I_Auto198A48D7142F7259FF2379BAB60C27C48.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/C/UX/1JGE4QJ9QJSQA9WARDIY6I_Auto1.uasset'
+[2023.12.14-13.29.18:669][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/D/ZQ/SIY74HDC5OLHYIZL9HMGNU_Auto1
+[2023.12.14-13.29.18:669][189]LogSavePackage: Moving 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/SIY74HDC5OLHYIZL9HMGNU_Auto1BA31B9B4478FD77B77DB48B740100C14.tmp' to 'D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/D/ZQ/SIY74HDC5OLHYIZL9HMGNU_Auto1.uasset'
+[2023.12.14-13.29.18:671][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GEP/Maps/StartingMap' took 0.035
+[2023.12.14-13.29.18:671][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
