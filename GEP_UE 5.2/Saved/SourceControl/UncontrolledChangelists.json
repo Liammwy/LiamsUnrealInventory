@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset",
+				"C:/Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_InventoryGrid.uasset",
+				"C:/Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/W_PlayerHUD.uasset",
+				"C:/Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerController.uasset",
+				"C:/Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_InventorySystem.uasset",
 				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/ItemData.uasset",
 				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/BP_ItemData.uasset",
 				"D:/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/Items/BP_ExampleItem.uasset",
