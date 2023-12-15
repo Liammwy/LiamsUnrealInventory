@@ -2878,3 +2878,188 @@ Make sure 'W_InventoryGrid_C' has been compiled for  Get InventorySize
 [2023.12.15-09.42.41:992][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.15-09.42.42:002][479]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2023.12.15-09.42.42:007][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.13:395][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.15-09.43.13:397][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GEP/Maps/StartingMap' took 0.025
+[2023.12.15-09.43.13:398][295]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GEP/Blueprints/Essentials/BP_PlayerCharacter] ([2] browsable assets)...
+[2023.12.15-09.43.13:400][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.15-09.43.13:450][295]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/GEP/Blueprints/Essentials/BP_PlayerCharacter.BP_PlayerCharacter_C]
+[2023.12.15-09.43.13:456][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GEP/Blueprints/Essentials/BP_PlayerCharacter.BP_PlayerCharacter]
+[2023.12.15-09.43.13:456][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/GEP/Blueprints/Essentials/BP_PlayerCharacter]
+[2023.12.15-09.43.13:468][295]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GEP/Blueprints/Essentials/BP_PlayerCharacter_Auto1
+[2023.12.15-09.43.13:468][295]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_PlayerCharacter_Auto10A077A684C0BCE3791AD439983AF7C3D.tmp' to '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/Autosaves/Game/GEP/Blueprints/Essentials/BP_PlayerCharacter_Auto1.uasset'
+[2023.12.15-09.43.13:469][295]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.12.15-09.43.19:913][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.15-09.43.19:920][946]LogContentBundle: [StartingMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.15-09.43.19:920][946]MapCheck: Actor needs resave /Game/GEP/Maps/StartingMap.WorldDataLayers-1 
+[2023.12.15-09.43.19:921][946]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.15-09.43.19:921][946]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.15-09.43.19:921][946]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 655 us)
+[2023.12.15-09.43.19:921][946]LogWorldPartition: Display: GenerateStreaming took 150 us (total: 3 ms)
+[2023.12.15-09.43.19:921][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.15-09.43.19:921][946]PIE: New page: PIE session: StartingMap (15 Dec 2023, 09:43:19)
+[2023.12.15-09.43.19:921][946]LogPlayLevel: Creating play world package: /Game/GEP/Maps/UEDPIE_0_StartingMap
+[2023.12.15-09.43.19:926][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004856s)
+[2023.12.15-09.43.19:926][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GEP/Maps/StartingMap.StartingMap to /Game/GEP/Maps/UEDPIE_0_StartingMap.StartingMap (0.004882s)
+[2023.12.15-09.43.19:926][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.15-09.43.19:926][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.15-09.43.19:927][946]LogAIModule: Creating AISystem for world StartingMap
+[2023.12.15-09.43.19:927][946]LogWorldPartition: ULevel::OnLevelLoaded(StartingMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.15-09.43.19:927][946]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.15-09.43.19:927][946]LogWorldPartition: UWorldPartition::Initialize(Asset=StartingMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.15-09.43.19:928][946]LogContentBundle: [StartingMap(Standalone)] Creating new contrainer.
+[2023.12.15-09.43.19:928][946]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.71 sec)
+[2023.12.15-09.43.19:928][946]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2023.12.15-09.43.19:949][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.15-09.43.19:951][946]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.15-09.43.19:951][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.15-09.43.19:951][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.15-09.43.19:951][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.15-09.43.19:951][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.15-09.43.19:951][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.15-09.43.19:953][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.15-09.43.19:981][946]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2023.12.15-09.43.19:981][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.15-09.43.19:981][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.15-09.43.19:981][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.15-09.43.19:982][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.15-09.43.19:982][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.15-09.43.19:983][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.15-09.43.19:983][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.15-09.43.19:983][946]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.15-09.43.19:983][946]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartingMap'.
+[2023.12.15-09.43.19:983][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.15-09.43.19:985][946]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.12.15-09.43.19:987][946]LogWorld: Bringing World /Game/GEP/Maps/UEDPIE_0_StartingMap.StartingMap up for play (max tick rate 0) at 2023.12.15-09.43.19
+[2023.12.15-09.43.19:987][946]LogWorld: Bringing up level for play took: 0.001900
+[2023.12.15-09.43.19:989][946]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Adding
+[2023.12.15-09.43.19:993][946]LogBlueprintUserMessages: [BP_InventorySystem] Added all available slots
+[2023.12.15-09.43.19:993][946]PIE: Server logged in
+[2023.12.15-09.43.19:993][946]PIE: Play in editor total start time 0.074 seconds.
+[2023.12.15-09.43.20:008][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:008][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:009][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:009][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:010][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:010][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:011][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:011][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:012][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:012][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:013][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:013][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:014][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:014][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:015][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:015][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:016][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:029][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:030][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:030][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:031][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:031][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:031][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:032][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:032][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:033][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:033][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:033][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:034][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:034][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:035][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:035][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:035][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.20:036][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.22:598][254]LogBlueprintUserMessages: [BP_ExampleItem_C_UAID_50814029CFF9BEC501_1804334633] Working!
+[2023.12.15-09.43.22:598][254]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Player has walked over: BP_ExampleItem
+[2023.12.15-09.43.25:331][582]LogBlueprintUserMessages: [BP_Orange_Item_C_UAID_9C7BEF284B3270C501_1458386908] Working!
+[2023.12.15-09.43.25:332][582]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Player has walked over: BP_Orange_Item
+[2023.12.15-09.43.25:419][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.26:507][723]LogBlueprintUserMessages: [BP_Orange_Item_C_UAID_50814029CFF9BDC501_1483692456] Working!
+[2023.12.15-09.43.26:507][723]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Player has walked over: BP_Orange_Item2
+[2023.12.15-09.43.27:428][833]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.29:393][ 69]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Player has walked over: BP_Apple_Item2
+[2023.12.15-09.43.29:439][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.29:900][130]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Player has walked over: BP_Apple_Item
+[2023.12.15-09.43.30:441][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.31:551][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.15-09.43.31:551][325]LogWorld: BeginTearingDown for /Game/GEP/Maps/UEDPIE_0_StartingMap
+[2023.12.15-09.43.31:551][325]LogWorld: UWorld::CleanupWorld for StartingMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.15-09.43.31:551][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.15-09.43.31:551][325]LogContentBundle: [StartingMap(Standalone)] Deleting container.
+[2023.12.15-09.43.31:554][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.15-09.43.31:559][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.15-09.43.31:581][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.15-09.43.31:582][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.15-09.43.31:582][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.15-09.43.31:583][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.15-09.43.31:589][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.15-09.43.31:611][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.31:625][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.15-09.43.31:636][327]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.12.15-09.44.51:091][ 67]BlueprintLog: New page: Compile W_PlayerMenu
+[2023.12.15-09.44.51:120][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.15-09.44.51:131][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.15-09.44.51:155][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_6
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:003A
+[2023.12.15-09.44.51:156][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/UI/W_PlayerMenu" FILE="../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset" SILENT=true
+[2023.12.15-09.44.51:162][ 67]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/UI/W_PlayerMenu
+[2023.12.15-09.44.51:162][ 67]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/W_PlayerMenuE87783E44AE92CFC329F839E2AF8B4FE.tmp' to '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset'
+[2023.12.15-09.44.51:170][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.55 sec)
+[2023.12.15-09.44.51:176][ 67]AssetCheck: New page: Asset Save: W_PlayerMenu
+[2023.12.15-09.44.51:176][ 67]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu
+[2023.12.15-09.46.09:506][684]BlueprintLog: New page: Compile W_PlayerMenu
+[2023.12.15-09.46.09:543][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.15-09.46.09:561][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.15-09.46.09:593][684]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_7
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:003A
+[2023.12.15-09.46.09:594][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/UI/W_PlayerMenu" FILE="../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset" SILENT=true
+[2023.12.15-09.46.09:600][684]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/UI/W_PlayerMenu
+[2023.12.15-09.46.09:601][684]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/W_PlayerMenuC84C592C4B5E7F09F71EE5A5FBDDF1CF.tmp' to '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset'
+[2023.12.15-09.46.09:612][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.60 sec)
+[2023.12.15-09.46.09:619][684]AssetCheck: New page: Asset Save: W_PlayerMenu
+[2023.12.15-09.46.09:619][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu
+[2023.12.15-09.47.59:768][ 25]BlueprintLog: New page: Compile W_PlayerMenu
+[2023.12.15-09.47.59:805][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.15-09.47.59:822][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.15-09.47.59:850][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_8
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0041
+[2023.12.15-09.47.59:851][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/UI/W_PlayerMenu" FILE="../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset" SILENT=true
+[2023.12.15-09.47.59:857][ 25]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/UI/W_PlayerMenu
+[2023.12.15-09.47.59:858][ 25]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/W_PlayerMenu36B02B5942AC71DBDB1559A9017C8FDE.tmp' to '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Inventory/UI/W_PlayerMenu.uasset'
+[2023.12.15-09.47.59:877][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.66 sec)
+[2023.12.15-09.47.59:884][ 25]AssetCheck: New page: Asset Save: W_PlayerMenu
+[2023.12.15-09.47.59:884][ 25]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu
+[2023.12.15-09.48.01:632][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.15-09.48.03:083][183]LogSlate: Window 'Save Content' being destroyed
+[2023.12.15-09.48.05:400][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.15-09.48.05:404][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.15-09.48.05:443][411]LogSavePackage: Moving output files for package: /Game/GEP/Blueprints/Essentials/BP_PlayerCharacter
+[2023.12.15-09.48.05:444][411]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Saved/BP_PlayerCharacterD5C37B834741351829DD949AD7B69FDF.tmp' to '../../../../../../Users/liam1/Downloads/LiamsUnrealInventory/GEP_UE 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset'
+[2023.12.15-09.48.05:450][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.70 sec)
+[2023.12.15-09.48.05:457][411]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2023.12.15-09.48.05:457][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Blueprints/Essentials/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.12.15-09.48.25:439][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
